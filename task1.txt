@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Document</title>
+</head>
+<body>
+  <h1>Топ 10 лучших мест мира</h1>
+  <ol>
+  		<li>
+  			<a href="http://lifeglobe.net/entry/4817">Цветные скалы Чжанъе Данксиа, Китай</a><br>
+  			<img src="1.jpg">
+  		</li>
+  </ol>  
+
+</body>
+</html>
